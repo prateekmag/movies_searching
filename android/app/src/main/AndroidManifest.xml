@@ -2,7 +2,7 @@
     package="com.example.movies_app_flutter">
     <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="movies_app_flutter"
+        android:label="Task Assignment"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
