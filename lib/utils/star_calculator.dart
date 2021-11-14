@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:movies_app_flutter/widgets/star_icon.dart';
+import 'package:task_assignment/widgets/star_icon.dart';
 
 List<Widget> getStars({required double? rating, required double starSize}) {
   List<StarIcon> temp = [];

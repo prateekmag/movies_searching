@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:path_provider/path_provider.dart';
 import 'dart:io';
-import 'package:movies_app_flutter/utils/constants.dart';
+import 'package:task_assignment/utils/constants.dart';
 
 Future<bool> _write({required String text, required String root}) async {
   final Directory directory = await getApplicationDocumentsDirectory();

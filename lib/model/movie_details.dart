@@ -1,5 +1,5 @@
-import 'package:movies_app_flutter/utils/constants.dart';
-import 'package:movies_app_flutter/widgets/custom_movies_button.dart';
+import 'package:task_assignment/utils/constants.dart';
+import 'package:task_assignment/widgets/custom_movies_button.dart';
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
 

@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:movies_app_flutter/services/movie.dart';
-import 'package:movies_app_flutter/utils/constants.dart';
-import 'package:movies_app_flutter/widgets/custom_loading_spin_kit_ring.dart';
-import 'package:movies_app_flutter/widgets/custom_search_appbar_content.dart';
-import 'package:movies_app_flutter/widgets/movie_card.dart';
-import 'package:movies_app_flutter/widgets/movie_card_container.dart';
-import 'package:movies_app_flutter/widgets/shadowless_floating_button.dart';
+import 'package:task_assignment/services/movie.dart';
+import 'package:task_assignment/utils/constants.dart';
+import 'package:task_assignment/widgets/custom_loading_spin_kit_ring.dart';
+import 'package:task_assignment/widgets/custom_search_appbar_content.dart';
+import 'package:task_assignment/widgets/movie_card.dart';
+import 'package:task_assignment/widgets/movie_card_container.dart';
+import 'package:task_assignment/widgets/shadowless_floating_button.dart';
 import 'package:sizer/sizer.dart';
-import 'package:movies_app_flutter/utils/scroll_top_with_controller.dart'
+import 'package:task_assignment/utils/scroll_top_with_controller.dart'
     as scrollTop;
 
 class FinderScreen extends StatefulWidget {

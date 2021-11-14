@@ -1,13 +1,13 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:movies_app_flutter/model/movie_preview.dart';
-import 'package:movies_app_flutter/screens/details_screen.dart';
-import 'package:movies_app_flutter/utils/star_calculator.dart'
+import 'package:task_assignment/model/movie_preview.dart';
+import 'package:task_assignment/screens/details_screen.dart';
+import 'package:task_assignment/utils/star_calculator.dart'
     as starCalculator;
 import 'package:sizer/sizer.dart';
-import 'package:movies_app_flutter/utils/constants.dart';
+import 'package:task_assignment/utils/constants.dart';
 import 'custom_loading_spin_kit_ring.dart';
-import 'package:movies_app_flutter/utils/navi.dart' as navi;
+import 'package:task_assignment/utils/navi.dart' as navi;
 
 class MovieCard extends StatelessWidget {
   final MoviePreview moviePreview;

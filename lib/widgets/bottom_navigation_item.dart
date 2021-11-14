@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:movies_app_flutter/utils/constants.dart';
+import 'package:task_assignment/utils/constants.dart';
 
 class BottomNavigationItem extends StatelessWidget {
   final Icon icon;

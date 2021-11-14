@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:movies_app_flutter/widgets/movie_card.dart';
+import 'package:task_assignment/widgets/movie_card.dart';
 import 'package:sizer/sizer.dart';
 
 class MovieCardContainer extends StatelessWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:movies_app_flutter/widgets/bottom_navigation_item.dart';
+import 'package:task_assignment/widgets/bottom_navigation_item.dart';
 import 'package:sizer/sizer.dart';
-import 'package:movies_app_flutter/utils/constants.dart';
+import 'package:task_assignment/utils/constants.dart';
 
 class BottomNavigation extends StatelessWidget {
   final List<BottomNavigationItem> children;

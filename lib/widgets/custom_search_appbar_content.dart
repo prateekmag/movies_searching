@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
-import 'package:movies_app_flutter/utils/constants.dart';
+import 'package:task_assignment/utils/constants.dart';
 
 class CustomSearchAppbarContent extends StatelessWidget {
   final void Function()? onEditingComplete;

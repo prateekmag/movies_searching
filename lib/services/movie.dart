@@ -1,9 +1,9 @@
-import 'package:movies_app_flutter/model/movie_details.dart';
-import 'package:movies_app_flutter/model/movie_preview.dart';
-import 'package:movies_app_flutter/secret/themoviedb_api.dart' as secret;
-import 'package:movies_app_flutter/utils/constants.dart';
-import 'package:movies_app_flutter/utils/file_manager.dart';
-import 'package:movies_app_flutter/widgets/movie_card.dart';
+import 'package:task_assignment/model/movie_details.dart';
+import 'package:task_assignment/model/movie_preview.dart';
+import 'package:task_assignment/secret/themoviedb_api.dart' as secret;
+import 'package:task_assignment/utils/constants.dart';
+import 'package:task_assignment/utils/file_manager.dart';
+import 'package:task_assignment/widgets/movie_card.dart';
 import 'package:flutter/material.dart';
 import 'networking.dart';
 

@@ -1,15 +1,15 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:movies_app_flutter/model/movie_details.dart';
-import 'package:movies_app_flutter/services/movie.dart';
-import 'package:movies_app_flutter/utils/constants.dart';
-import 'package:movies_app_flutter/widgets/custom_loading_spin_kit_ring.dart';
+import 'package:task_assignment/model/movie_details.dart';
+import 'package:task_assignment/services/movie.dart';
+import 'package:task_assignment/utils/constants.dart';
+import 'package:task_assignment/widgets/custom_loading_spin_kit_ring.dart';
 import 'package:sizer/sizer.dart';
-import 'package:movies_app_flutter/utils/star_calculator.dart'
+import 'package:task_assignment/utils/star_calculator.dart'
     as starCalculator;
-import 'package:movies_app_flutter/utils/file_manager.dart' as file;
-import 'package:movies_app_flutter/utils/toast_alert.dart' as alert;
+import 'package:task_assignment/utils/file_manager.dart' as file;
+import 'package:task_assignment/utils/toast_alert.dart' as alert;
 
 class DetailsScreen extends StatefulWidget {
   final String id;

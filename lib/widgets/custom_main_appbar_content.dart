@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:movies_app_flutter/widgets/custom_movies_button.dart';
+import 'package:task_assignment/widgets/custom_movies_button.dart';
 import 'package:sizer/sizer.dart';
-import 'package:movies_app_flutter/utils/constants.dart';
+import 'package:task_assignment/utils/constants.dart';
 
 class CustomMainAppBarContent extends StatefulWidget {
   final String title;
